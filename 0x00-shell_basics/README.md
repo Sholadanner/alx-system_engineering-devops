@@ -11,3 +11,4 @@ Deletig a directory
 Changing working directory to previous one
 Listing files
 File type
+Creating a symbolic link
