@@ -9,3 +9,4 @@ Moving a file from one directory to another
 Deleting a file
 Deletig a directory
 Changing working directory to previous one
+Listing files
