@@ -5,3 +5,4 @@ Command for displaying current directory contents in a long format
 Command to display current directory contents, including hidden files in ling format
 Display current directory contents
 Creating a directory inside another directory
+Moving a file from one directory to another
