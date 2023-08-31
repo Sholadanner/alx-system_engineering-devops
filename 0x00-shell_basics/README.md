@@ -13,3 +13,4 @@ Listing files
 File type
 Creating a symbolic link
 Copying an HTML file
+Moving uppercase files
