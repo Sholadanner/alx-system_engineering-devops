@@ -16,3 +16,4 @@ Copying an HTML file
 Moving uppercase files
 Deleting files with a certain character
 Creating multiple directories
+Listing files and directories
