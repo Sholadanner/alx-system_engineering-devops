@@ -14,3 +14,4 @@ File type
 Creating a symbolic link
 Copying an HTML file
 Moving uppercase files
+Deleting files with a certain character
